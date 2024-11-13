@@ -8,14 +8,13 @@
   <p>📫 Reach out to me via email : <strong><a href="mailto:rohanchanana7@gmail.com">rohanchanana7@gmail.com</a></strong></p>
 </div>
 
-<h3>Skills:</h3>
-Here are some technologies I've worked with:
+<h3>Skills :</h3>
 
-- **💻 Programming Languages**: C, Python, C++
-- **🔧 Embedded Systems**: Arduino, ESP32, STM32, Blynk
-- **🤖 Artificial Intelligence & Machine Learning**: TensorFlow, Keras, scikit-learn, PyTorch
-- **📉 Data Science & Analytics**: Pandas, NumPy, Matplotlib
-- **🛠️ Circuit Design**: KiCad, LTSpice
+- **💻 Programming Languages** : C, Python, C++
+- **🔧 Embedded Systems** : Arduino, ESP32, STM32, Blynk
+- **🤖 Artificial Intelligence & Machine Learning** : TensorFlow, Keras, scikit-learn, PyTorch
+- **📉 Data Science & Analytics** : Pandas, NumPy, Matplotlib
+- **🛠️ Circuit Design** : KiCad, LTSpice
 
 Feel free to check out my projects below or reach out to me if you want to collaborate!
 
