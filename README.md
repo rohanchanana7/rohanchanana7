@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rohan Chanana</h1>
 
-<!--
-**rohanchanana7/rohanchanana7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/hPZXkrK2/octocat-1731450459356.png">
 
-Here are some ideas to get you started:
+<div style="padding: 0; margin: 0;">
+  <p>🔭 Currently working on developing embedded systems and AI applications, focusing on creating solutions that push the boundaries of technology.</p>
+  <p>🌱 Passionate about AI and Electronics, always exploring cutting-edge technologies to integrate into innovative projects that make a real-world impact.</p>
+  <p>📫 Reach out to me via email : <strong><a href="mailto:rohanchanana7@gmail.com">rohanchanana7@gmail.com</a></strong></p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Skills:</h3>
+Here are some technologies I've worked with:
+
+- **💻 Programming Languages**: C, Python, C++
+- **🔧 Embedded Systems**: Arduino, ESP32, STM32, Blynk
+- **🤖 Artificial Intelligence & Machine Learning**: TensorFlow, Keras, scikit-learn, PyTorch
+- **📉 Data Science & Analytics**: Pandas, NumPy, Matplotlib
+- **🛠️ Circuit Design**: KiCad, LTSpice
+
+Feel free to check out my projects below or reach out to me if you want to collaborate!
+
+---
